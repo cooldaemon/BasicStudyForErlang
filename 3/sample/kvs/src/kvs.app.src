@@ -5,4 +5,4 @@
   {registered, []},
   {mod, { kvs_app, []} },
   {env, []},
-  {applications, [kernel, stdlib]}]}.
+  {applications, [kernel, stdlib, mnesia]}]}.
